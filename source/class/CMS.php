@@ -13,11 +13,6 @@ class CMS extends Extension
     public function __construct(Application $application)
     {
         parent::__construct($application, 'Planck\Extension\CMS', __DIR__.'/../..');
-
-
-        //$entityEditorExtension =
-
-
     }
 
 
