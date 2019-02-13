@@ -8,7 +8,7 @@ use Phi\HTML\JavascriptFile;
 use Planck\Extension\CMS\Model\Entity\SiteTree;
 use Planck\Extension\CMS\Module\Site\View\Configuration;
 
-class Main extends \Planck\Router
+class Main extends \Planck\Routing\Router
 {
     public function registerRoutes()
     {

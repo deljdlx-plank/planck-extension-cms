@@ -5,7 +5,7 @@ namespace Planck\Extension\CMS\Module\Site\Router;
 
 use Planck\Extension\CMS\Module\Site\View\Configuration;
 
-class Main extends \Planck\Router
+class Main extends \Planck\Routing\Router
 {
     public function registerRoutes()
     {
